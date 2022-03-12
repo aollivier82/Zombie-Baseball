@@ -16,7 +16,7 @@ Live as long as possible, and comment your longest time alive!
 
 
 
-Controls:
+**Controls:**
 
 WASD to move character
 
