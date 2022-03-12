@@ -19,6 +19,9 @@ Live as long as possible, and comment your longest time alive!
 Controls:
 
 WASD to move character
+
 Left Mouse Click to swing bat
+
 Space bar for boost (May bounce off walls)
+
 R to restart game
